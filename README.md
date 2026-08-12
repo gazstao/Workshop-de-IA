@@ -41,4 +41,4 @@ Acompanhe também o instagram da Karoline, o [TechcomKa](https://www.instagram.c
 
 #### Organização
 
-**Welington Silva - Recrutatech e portal Carreira TI**
+**Welington Silva - [Recrutatech](https://recrutatech.com.br/) e portal [Carreira TI](https://www.carreirati.com.br/)**
