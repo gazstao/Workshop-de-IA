@@ -37,7 +37,7 @@ Uma introdução prática e descomplicada à Inteligência Artificial, feita par
 #### Facilitadores
 
 **[Karoline](https://www.linkedin.com/in/karolinebarb/)** e **[Gastão](https://www.linkedin.com/in/luiz-gastao-726b031ba/)**
-Acompanhe também o instagram da Karoline, o [TechcomKa](https://www.instagram.com/techcomka/) e o [Tiktok](https://www.tiktok.com/@techcomk)
+Acompanhe também a Karoline, no *TechcomKa*, no [instagram](https://www.instagram.com/techcomka/) ou no [Tiktok](https://www.tiktok.com/@techcomk)
 
 #### Organização
 
