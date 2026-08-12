@@ -1,4 +1,4 @@
-<img width="1085" height="1450" alt="cc4518e4-5154-4856-a772-b6d6ccbbd9bb" src="https://github.com/user-attachments/assets/b20dbb87-0053-4699-b599-2d50174c9cb6" />
+<img width="358" height="478" alt="workshop_IA" src="https://github.com/user-attachments/assets/c9385660-fae8-4b22-8592-822ec0c0e659" />
 
 # IA na Prática: Do Medo ao Domínio
 
