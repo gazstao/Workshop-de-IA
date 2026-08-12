@@ -1,3 +1,5 @@
+![Uploading cc4518e4-5154-4856-a772-b6d6ccbbd9bb.png…]()
+
 # IA na Prática: Do Medo ao Domínio
 
 **Apresentação ao vivo com Karoline e Gastão**
