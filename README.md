@@ -4,7 +4,6 @@
 
 Repositório oficial com o material de apoio, prompts e recursos da palestra sobre Inteligência Artificial para iniciantes.
 
----
 
 #### Sobre o Encontro
 
@@ -18,7 +17,6 @@ Uma introdução prática e descomplicada à Inteligência Artificial, feita par
 | **Bloco 3** | IA na Prática: do Trabalho à Vida Pessoal | Aplicações reais: rotinas, finanças, ecossistema de ferramentas (ChatGPT, Copilot, Claude, Gemini) e cuidados de segurança |
 | **Bloco 4** | Material de Apoio + Próximos Passos & Q&A | Entrega do guia prático exclusivo, apresentação do treinamento avançado e respostas às dúvidas |
 
----
 
 #### Conteúdo do Repositório
 
@@ -27,7 +25,6 @@ Uma introdução prática e descomplicada à Inteligência Artificial, feita par
 - `recursos.md` → Links úteis e ferramentas recomendadas
 - `proximos-passos.md` → Informações sobre o treinamento avançado
 
----
 
 #### Para quem é este material?
 
@@ -35,7 +32,6 @@ Uma introdução prática e descomplicada à Inteligência Artificial, feita par
 - Profissionais que querem ganhar produtividade
 - Quem deseja aplicar IA no dia a dia de forma prática e segura
 
----
 
 #### Facilitadores
 
