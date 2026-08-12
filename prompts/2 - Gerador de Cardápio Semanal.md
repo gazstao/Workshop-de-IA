@@ -1,7 +1,7 @@
 # Projeto 2: Gerador de Cardápio Semanal
 
 
-#### Prompt 1: 
+#### Prompt 1 - Versão simplificada
 
 Crie um cardápio semanal completo (café, almoço e jantar) para [número de pessoas], com foco em refeições baratas, simples e brasileiras. 
 
@@ -11,7 +11,7 @@ Orçamento aproximado: R$ [valor]
 No final, faça a lista de compras organizada por seções do mercado e estime o custo total.
 
 
-#### Prompt 2:
+#### Prompt 2 - Versão completa
 
 Você é um nutricionista prático e econômico especializado em cardápios caseiros brasileiros.
 Crie um cardápio semanal completo (segunda a domingo) com as seguintes regras:
