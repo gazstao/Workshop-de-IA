@@ -23,7 +23,7 @@ Uma introdução prática e descomplicada à Inteligência Artificial, feita par
 #### Conteúdo do Repositório
 
 - `prompts/` → Exemplos de prompts usados na apresentação
-- `Workshop_IA+Apresentacao.pdf` → Material exclusivo entregue aos participantes
+- `Workshop_IA_Apresentacao.pdf` → Material exclusivo entregue aos participantes
 - `proximos-passos.md` → Informações sobre o treinamento avançado
 
 
