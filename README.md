@@ -6,11 +6,9 @@ Repositório oficial com o material de apoio, prompts e recursos da palestra sob
 
 ---
 
-## 📋 Sobre o Encontro
+#### Sobre o Encontro
 
 Uma introdução prática e descomplicada à Inteligência Artificial, feita para quem quer começar a usar IA no dia a dia, no trabalho e na vida pessoal, sem complicação técnica.
-
-### Estrutura da Apresentação
 
 | Bloco | Tema | Conteúdo |
 |-------|------|----------|
@@ -22,7 +20,7 @@ Uma introdução prática e descomplicada à Inteligência Artificial, feita par
 
 ---
 
-## 📁 Conteúdo do Repositório
+#### Conteúdo do Repositório
 
 - `prompts/` → Exemplos de prompts usados na apresentação
 - `guia-pratico.pdf` → Material exclusivo entregue aos participantes
@@ -31,7 +29,7 @@ Uma introdução prática e descomplicada à Inteligência Artificial, feita par
 
 ---
 
-## 🎯 Para quem é este material?
+#### Para quem é este material?
 
 - Pessoas que nunca usaram IA ou usam de forma básica
 - Profissionais que querem ganhar produtividade
@@ -39,25 +37,10 @@ Uma introdução prática e descomplicada à Inteligência Artificial, feita par
 
 ---
 
-## 🛡️ Aviso Importante
-
-Este material é de apoio à apresentação ao vivo.  
-O guia completo e os bônus exclusivos foram entregues apenas para quem participou do encontro.
-
----
-
-## 👥 Facilitadores
+#### Facilitadores
 
 **Karoline** e **Gastão**
 
-## 👥 Organização
+#### Organização
 
 **Welington Silva - Recrutatech e portal Carreira TI**
-
-
----
-
-## ⭐ Próximo Passo
-
-Quer ir além do conteúdo desta apresentação?  
-Em breve disponibilizaremos informações sobre o **treinamento avançado** com condições especiais para os participantes.
